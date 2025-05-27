@@ -1,3 +1,11 @@
+# Inicio-NextJs
+Repositório para guardar meu primeiro teste com Next.js.
+
+### Primeiro projeto Next;
+
+Ps: <b>O global.css para o projeto configurado está aqui.</b>
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
